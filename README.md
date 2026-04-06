@@ -38,12 +38,5 @@
 - Фізика
 - Хімія
 
-
-### Для розробників / збірка з коду
-
-```bash
-git clone https://github.com/YOUR_USERNAME/NMT-Pidgotovka.git
-cd NMT-Pidgotovka
-# Встановіть залежності (замініть на свій стек)
 pip install -r requirements.txt
 python main.py
