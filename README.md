@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/YOUR_USERNAME/NMT-Pidgotovka/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/NMT-Pidgotovka?style=social)
+![Stars](https://img.shields.io/github/stars/clawz1NIN/PID200?style=social)
 
 **PID200** (NMT-Pidgotovka) — це потужна, зручна і сучасна програма для системної підготовки до **Національного мультипредметного тесту (НМТ)**.  
 
